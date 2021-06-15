@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/99436a4b-0f13-4f7b-ad87-fcfc88ba33fd/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/WebRoot/business/paper/paperAdd.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/WebRoot/business/patent/patentAdd.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/WebRoot/business/yfContract/yfContractAdd.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/WebRoot/business/zXProject/zXProjectAdd.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/src/com/eplugger/business/contract/action/YFContractAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/src/com/eplugger/business/jYProjectApply/bo/JYProjectApplyBookBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/src/com/eplugger/business/project/action/ZXProjectAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/src/com/eplugger/business/pub/action/VProjectAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV830111061/sourcecode/src/resource/config/app.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV85010368/sourcecode/WebRoot/business/js/projectMember.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV85010368/sourcecode/WebRoot/business/zXProject/zXProjectMemberManage.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../RDSYSEDUV85010368/sourcecode/src/com/eplugger/tb/hr/bo/UnitTb.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/deploy.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/LittleProjectRocketMqApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/controller/AdminHotelRoomController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/controller/AdminOrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/dto/AdminHotelRoom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/dto/AdminHotelRoomMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/dto/AdminRoomDescription.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/dto/AdminRoomPicture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/producer/HotelRoomProducerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/service/AdminHotelRoomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/service/AdminOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/service/AdminRoomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/service/impl/AdminOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/admin/service/impl/AdminRoomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/HealthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/consumer/CouponConsumerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/dto/FirstLoginMessageDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/dto/OrderFinishedMessageDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/listener/FirstLoginMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/listener/OrderFinishedMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/service/CouponService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/coupon/service/impl/CouponServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/consumer/HotelRoomConsumerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/controller/HotelRoomController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/dto/HotelRoom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/dto/HotelRoomMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/dto/RoomDescription.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/dto/RoomPicture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/enums/HotelBusinessErrorCodeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/listener/HotelRoomUpdateMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/service/HotelRoomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/service/impl/HotelRoomCacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/hotel/service/impl/HotelRoomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/dto/LoginRequestDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/enums/CouponUsedStatusEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/enums/FirstLoginStatusEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/producer/LoginProducerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/service/LoginService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/login/service/impl/LoginServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/consumer/MessageConsumerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/dto/OrderInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/dto/OrderItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/dto/OrderMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/listener/OrderMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/AbstractOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/CancelOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/ConfirmOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/FinishedOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/OrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/OrderMessageCommandFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/OrderMessageCommond.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/PayOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/message/manager/WaitPayOrderMessageCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/configuration/OrderProducerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/consumer/OrderDelayConsumerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/dto/CreateOrderResponseDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/dto/OrderInfoDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/dto/OrderItemDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/dto/OrderMessageDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/enums/OrderBusinessErrorCodeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/enums/OrderStatusEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/listener/FinishedOrderTransactionListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/listener/OrderDelayMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/producer/OrderProducerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/service/OrderEventInformManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/service/OrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/service/impl/OrderEventInformManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/order/service/impl/OrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/constants/PayTransactionStatusConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/controller/PayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/dto/PayTransaction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/dto/QueryPayStatusResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/service/PayService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/service/PayTransactionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/service/impl/PayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/api/pay/service/impl/PayTransactionServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/constants/PayTypeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/constants/RedisKeyConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/constants/StringPoolConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/exception/BusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/handler/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ruyuan2020/little/project/rocketmq/common/utils/DateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
